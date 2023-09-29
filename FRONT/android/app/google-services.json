@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "52731262574",
+    "project_id": "gogood-379013",
+    "storage_bucket": "gogood-379013.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52731262574:android:59e24ee3669627d66fd87f",
+        "android_client_info": {
+          "package_name": "com.front"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoyZLc8y4AnbRrz60cFi51u6GnFM-8x_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,1 @@
+export { GettingHelpAcceptModal } from './GettingHelpAcceptModal';

@@ -1,0 +1,1 @@
+export { ProfileDetailsBox } from './ProfileDetailsBox';
